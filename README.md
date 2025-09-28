@@ -26,10 +26,9 @@ I'm a full stack developer...🚀
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mittal-ab9b14375/)
 
 
-<div align="center">
+<div> align="center">
   <img height="200" src="<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlsbHh6c2t6NGZlMWh3OHprbWF5eDk3YXRhNDlqbXNqbWN5b2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif"/>
-</div>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlsbHh6c2t6NGZlMWh3OHprbWF5eDk3YXRhNDlqbXNqbWN5b2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif"</div>
 
 
 
