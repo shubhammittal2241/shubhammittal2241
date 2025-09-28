@@ -28,7 +28,7 @@ I'm a full stack developer...🚀
 
 <div align="center">
   <img height="200" src="<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlsbHh6c2t6NGZlMWh3OHprbWF5eDk3YXRhNDlqbXNqbWN5b2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlsbHh6c2t6NGZlMWh3OHprbWF5eDk3YXRhNDlqbXNqbWN5b2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif"/>
 </div>
 
 
