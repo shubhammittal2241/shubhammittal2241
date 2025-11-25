@@ -22,7 +22,7 @@ I'm a full stack developer...🚀
 ###
 
 ## 🔗 Links
-[![codechef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codeforces.com/profile/--coder_om--)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mittal-ab9b14375/)
 
 
